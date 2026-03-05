@@ -1,0 +1,46 @@
+[
+  {
+    "id": "scott-spark-rc-900-pro-2018",
+    "name": "Scott Spark RC 900 Pro 2018",
+    "price": 1850,
+    "costPrice": 1300,
+    "currency": "GBP",
+    "type": "Mountain Bike",
+    "condition": "Very Good",
+    "image": "scott-spark-rc-900-pro.png",
+    "description": "Medium frame, HMX Carbon. Major overhaul: pivot bearings, bottom bracket, cassette 10-52, chain, headset bearings, jockey wheels. New Pirelli tyres set up tubeless. Needs nothing."
+  },
+  {
+    "id": "vitus-escarpe-29er",
+    "name": "Vitus Escarpe 29er",
+    "price": 799,
+    "costPrice": 550,
+    "currency": "GBP",
+    "type": "Mountain Bike",
+    "condition": "Very Good",
+    "image": "vitus-escarpe-29er.png",
+    "description": "Size Small. £400 recently spent on new: seat, handlebars, grips, stem, dropper post, wheels, tyres, chain, front axle, headset bearings, brake pads."
+  },
+  {
+    "id": "trek-road-2022",
+    "name": "Trek Road Bike 2022",
+    "price": 1099,
+    "costPrice": 850,
+    "currency": "GBP",
+    "type": "Road Bike",
+    "condition": "Excellent",
+    "image": "trek-road-2022.png",
+    "description": "Size 54 medium. Very light use, mostly Zwift. Includes: Look Keo 2 Max pedals, Boardman pedals, Duotrap S, Coospo BC107 computer, bottle cages, Ravemen lights, Token clip-on aerobars."
+  },
+  {
+    "id": "boardman-mtb",
+    "name": "Boardman Mountain Bike",
+    "price": 449,
+    "costPrice": 320,
+    "currency": "GBP",
+    "type": "Mountain Bike",
+    "condition": "Excellent",
+    "image": "boardman-mtb.png",
+    "description": "Large frame, Pearl White. SRAM X5 27-speed, FSA Alpha Drive 44/32/22t chainset, SRAM PG 950 cassette. Suntour Raidon XC-LO R Air 120mm fork. Avid DB1 hydraulic disc brakes. Boardman E4P doublewall 27.5\" wheels. Fantastic condition, very light use."
+  }
+]
