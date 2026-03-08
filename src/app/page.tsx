@@ -3,6 +3,7 @@ import bikesData from "../../data/bikes.json";
 import type { Bike } from "@/types/bike";
 import { ContactForm } from "@/components/ContactForm";
 
+// concole log
 const bikes = bikesData as Bike[];
 
 export default function Home() {
@@ -105,8 +106,8 @@ export default function Home() {
         <section id="selling-points">
           <h2 className="mb-6 text-2xl font-bold">Why buy from us</h2>
           <p className="mb-8 max-w-2xl text-slate-300">
-            We&apos;re not a faceless classifieds site. Every bike comes from one
-            trusted local shop – inspected, serviced, and ready to ride.
+            We&apos;re not a faceless classifieds site. Every bike comes from
+            one trusted local shop – inspected, serviced, and ready to ride.
           </p>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             <a
@@ -152,11 +153,14 @@ export default function Home() {
           </div>
         </section>
 
-        <section id="contact" className="rounded-2xl border border-slate-800 bg-slate-900 p-8 sm:p-12">
+        <section
+          id="contact"
+          className="rounded-2xl border border-slate-800 bg-slate-900 p-8 sm:p-12"
+        >
           <h2 className="text-2xl font-bold">Contact us</h2>
           <p className="mt-2 text-slate-300">
-            Based in Co. Armagh. Get in touch about a bike or to arrange a viewing.
-            Delivery can be arranged at an additional charge.
+            Based in Co. Armagh. Get in touch about a bike or to arrange a
+            viewing. Delivery can be arranged at an additional charge.
           </p>
           <div className="mt-8 max-w-md">
             <ContactForm />
